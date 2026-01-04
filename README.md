@@ -17,7 +17,6 @@ A web-based tool for classifying lung adenocarcinoma (LUAD) samples as **Tumor**
 - **Features**: Upload CSV → prediction + confidence score + visualizations
 
 ### Files in Repo
-- `/ml_artifacts/` folder:
   - `best_luad_model.pkl` → Trained model
   - `scaler.pkl` → Data scaler
   - `selected_genes.pkl` → List of 2000 genes (input must align)
